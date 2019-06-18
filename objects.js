@@ -1,5 +1,5 @@
 var playlist = {
-  Jay-Z: '99 Problems',
+  'Jay Z': '99 Problems',
   Prince: 'Purple Rain'
 }
 
